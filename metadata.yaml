@@ -1,0 +1,29 @@
+_repo: Der-Tunnel_44489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44489-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kellermann, Bernhard
+    aliases:
+    - Kellermann, B. (Bernhard)
+    - Kellerman, Berngard
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '40548'
+    url: http://www.gutenberg.org/2009/agents/40548
+description: ''
+gutenberg_issued: '2013-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44489'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction'
+- !lcc 'PT'
+title: 'Der Tunnel: Roman'
+url: http://www.gutenberg.org/ebooks/44489
